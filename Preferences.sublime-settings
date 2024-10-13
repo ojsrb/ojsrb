@@ -1,0 +1,17 @@
+{
+	"ignored_packages":
+	[
+	],
+	"index_files": true,
+	"font_size": 12,
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"line_padding_top": 8,
+	"line_padding_bottom": 8,
+	"font_face": "Liberation Mono",
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Aura Theme Color Scheme/aura-theme.tmTheme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false,
+}
