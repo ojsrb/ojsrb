@@ -1,7 +1,0 @@
-[
-	{ "keys": ["f5"], "command": "build" },
-	{ "keys": ["ctrl+shift+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
-	{ "keys": ["ctrl+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
-	{ "keys": ["ctrl+tab"], "command": "prev_view_in_stack" },
-	{ "keys": ["ctrl+shift+tab"], "command": "next_view_in_stack" },
-]
