@@ -1,9 +1,0 @@
-{
-    "editor.cursorBlinking": "phase",
-    "editor.cursorSmoothCaretAnimation": "on",
-    "editor.cursorStyle": "underline",
-    "workbench.colorTheme": "Visual Studio Dark",
-    "security.promptForLocalFileProtocolHandling": false,
-    "lldb.suppressUpdateNotifications": true,
-    "git.autofetch": true
-}
