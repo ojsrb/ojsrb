@@ -1,7 +1,7 @@
 "You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-
 based creativity."
 
-# About
+## About
 I am currently on the Informatics subteam of my highschool's robotics team, FRC Team 1710
 
 I am interested in Computer Engineering and Machine Learning.
